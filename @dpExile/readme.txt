@@ -1,7 +1,7 @@
 /////////////////////////////////////////////////////////
 ////
 ////
-////          DonkeyPuncheD ExileMod v0.5 alpha4
+////          DonkeyPuncheD ExileMod v0.5Echo1
 ////		Allowing for highly customized
 ////			Exile Servers
 ////
@@ -20,15 +20,10 @@ If you cannot find the mod listed in the menu to the right, simply click LOCAL M
 Then add the @dpExile folder.
 Click play and join DP or any of the current Alpha test servers in the community!
 
-Server listing:
-DonkeyPunch Exile Al Rayak
-DonkeyPunch Exile Altis
+As of now, we are opening this mod up to everyones eyes. 
+If you can follow whats going on and feel you can contribute, please visit us on our TS3!
 
-Zenithovmen Esseker
-Zenithovmen Chernarus
-Zenithovmen Namalsk
+RAVA3EPOCH.TS3.NFOSERVERS.COM
 
-|MM|The Monastery Al Rayak
-
-Pixelkillers.de Chernarus
+or visit our website at http://DONKEYPUNCH.INFO
 
